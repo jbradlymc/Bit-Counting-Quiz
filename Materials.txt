@@ -1,0 +1,11 @@
+1 Arduino Uno with Cable
+1 Breadboard
+
+3 Tactile Buttons
+3 LEDS (Any color)
+7 LEDS (Different color than first one)
+
+3 1K ohms Resistor
+10 220 ohms Resistor
+
+Jumping Wires
